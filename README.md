@@ -4,7 +4,7 @@
 
 This project template provides a starter kit for managing your site
 dependencies with [Composer](https://getcomposer.org/).
-
+ 
 ## Usage
 
 First you need to [install Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
